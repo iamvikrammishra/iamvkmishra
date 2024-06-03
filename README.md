@@ -34,9 +34,6 @@ I'm seeking help with:
 ## ⚡ Fun Fact
 - I love hiking and outdoor adventures.
 
-## 📈 GitHub Stats
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 - Ncat AIR- 47
 ## 📚 Blog Posts

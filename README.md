@@ -1,6 +1,6 @@
 # Hi there, I'm Vikram Kumar Mishra👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-iamvkmishra?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/your-iamvkmishra?label=Stars&style=social)
+![GitHub followers](https://img.shields.io/github/followers/your-iamvikrammishra?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/your-iamvikrammishra?label=Stars&style=social)
 
 
 Welcome to my GitHub profile! I'm Vikram Mishra, a Software Developer passionate about open source and web development. Here you'll find a collection of my projects, contributions, and everything I’m working on.
@@ -37,7 +37,7 @@ I'm seeking help with:
 ## ⚡ Fun Fact
 - I love hiking and outdoor adventures.
 ## 📈 GitHub Stats
-![Vikram Mishra's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvkmishra&show_icons=true&theme=radical)
+![Vikram Mishra's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvikrammishra&show_icons=true&theme=radical)
 
 
 ## 🏆 Achievements
